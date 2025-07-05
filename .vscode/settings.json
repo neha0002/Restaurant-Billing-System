@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "c:\\Users\\neham\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\UPZZ37RJ\\mysql-connector-j-9.3.0[1].jar",
+        "c:\\Users\\neham\\Downloads\\jcalendar-1.4\\lib\\jcalendar-1.4.jar",
+        "c:\\Users\\neham\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\3HX5NJYQ\\mysql-connector-j-9.3.0[1].jar"
+    ]
+}
