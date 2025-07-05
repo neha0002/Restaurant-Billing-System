@@ -1,18 +1,20 @@
-## Getting Started
+# Restaurant Billing System
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A desktop-based restaurant billing system built using Java (Swing) and MySQL.  
+Features include user login, menu management, billing generation, order history, and table reservation.
 
-## Folder Structure
+## Technologies Used
+- Java (Swing)
+- MySQL
+- Visual Studio Code
 
-The workspace contains two folders by default, where:
+## Screenshots
+_Add here if you have any_
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## How to Run
+1. Import `.java` files into VS Code or any IDE.
+2. Connect to MySQL (create DB `kasturi_db`).
+3. Run the Java application.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+---
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
